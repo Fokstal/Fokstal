@@ -1,7 +1,6 @@
 <div align="center">
-    
+    Hi, my name is Fokstal! ✌
 </div>
-# Hi, my name is Fokstal! ✌
 
 
 - ### 👀 I’m interested in dooooooooottttt..NET!
