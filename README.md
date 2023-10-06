@@ -1,23 +1,23 @@
 <div align="center">
-    <h1 style="text-decoration: none;">Hi, my name is Fokstal! ✌</h1>
+    <h1>Hi, my name is Fokstal! ✌</h1>
     <h2>👀 a.k.a. Kirill Labut / .NET Developer</h2>
     <div class="links" align="center">
         <a href="https://www.linkedin.com/in/fokstal">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
+        <a href="https://t.me/Fokstal">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        </a>
+        <a href="https://www.udemy.com/user/fokstal/">
+            <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/>
+        </a>
+    </div>
+    <div class="email" align="center">
+        <a href="klabu2016@mail.ru">
+            <img src="https://icons8.com/icon/53388/mail" alt="Email"/>
+        </a>
     </div>
 </div>
-
-    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fokstal)
-    [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/Fokstal) 
-
-
-
-- ### 👀 I’m interested in dooooooooottttt..NET!
-
----
-
-- ### 🔗 Linkssssss..
     ---
     ###### 📫 klabu2016@mail.ru
 
