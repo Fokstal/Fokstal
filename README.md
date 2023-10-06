@@ -50,7 +50,3 @@
 
 ### 💣CodeWars
 [![codewars](https://www.codewars.com/users/Fokstal/badges/large)](https://www.codewars.com/users/Fokstal) 
-
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=monokai)
