@@ -1,4 +1,4 @@
-<div align="center">
+<div id="header" align="center">
     <h1>Hi, my name is Fokstal! ✌</h1>
     <h2>👀 a.k.a. Kirill Labut / .NET Developer</h2>
     <div class="links" align="center">
