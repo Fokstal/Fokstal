@@ -1,15 +1,15 @@
 <div align="center">
-    <h1>Hi, my name is Fokstal! ✌</h1>
-    <h2>a.k.a. Kirill Labut</h2>
-    <br>
-    <h2>I'm .NET Developer</h2>
+    <h1 style="text-decoration: none;">Hi, my name is Fokstal! ✌</h1>
+    <h2>👀 a.k.a. Kirill Labut / .NET Developer</h2>
+    <div class="links" align="center">
+        <a href="https://www.linkedin.com/in/fokstal">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+    </div>
 </div>
 
-<center>
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fokstal)
     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fokstal)
     [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/Fokstal) 
-</center>
 
 
 
