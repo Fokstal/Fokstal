@@ -13,13 +13,9 @@
         </a>
     </div>
     <div class="email" align="center">
-        <a href="klabu2016@mail.ru">
-            <img src="https://icons8.com/icon/53388/mail" alt="Email"/>
-        </a>
+        <p>✉ klabu2016@mail.ru</p>
     </div>
 </div>
-    ---
-    ###### 📫 klabu2016@mail.ru
 
 ---
 - ### 💣CodeWars
