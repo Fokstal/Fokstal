@@ -1,5 +1,6 @@
 <div class="header" align="center">
-    <h1>Hi, my name is Fokstal! ✌</h1><h2>👀 a.k.a. Kirill Labut / .NET Developer</h2>
+    <h1>Hi, my name is Fokstal! ✌</h1>
+    <h2>👀 a.k.a. Kirill Labut / .NET Developer</h2>
     <div class="links" align="center">
         <a href="https://www.linkedin.com/in/fokstal">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,12 +16,6 @@
         <p>✉ klabu2016@mail.ru</p>
     </div>
 </div>
-
----
-- ### 💣CodeWars
-[![codewars](https://www.codewars.com/users/Fokstal/badges/large)](https://www.codewars.com/users/Fokstal) 
-
----
 
 - ### 💘 Skills
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -52,3 +47,8 @@
 - ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </details>
+
+---
+
+### 💣CodeWars
+[![codewars](https://www.codewars.com/users/Fokstal/badges/large)](https://www.codewars.com/users/Fokstal) 
