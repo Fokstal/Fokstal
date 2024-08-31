@@ -1,3 +1,8 @@
+<div align="center">
+	<h1>Hi, my name is Fokstal! ✌</h1>
+	<h3>a.k.a. Kirill Labut / .NET Developer</h2>
+</div>
+
 - ##### Skills
     ![C#](https://img.shields.io/badge/С%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
